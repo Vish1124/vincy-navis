@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: pink;
+  margin-top: 100px;
+}
+
+h1 {
+  color: red;
+}
+
+.btn {
+  padding: 10px 20px;
+  margin: 20px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#yes {
+  background-color: rgb(238, 9, 74);
+  color: white;
+}
+
+#no {
+  background-color: gray;
+  color: white;
+  position: absolute;
+}
+
+
+
